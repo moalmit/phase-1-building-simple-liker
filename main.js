@@ -5,6 +5,9 @@ const FULL_HEART = '♥'
 // Your JavaScript code goes here!
 
 
+const modal = document.querySelector("div h2");
+modal.className = "hidden";
+
 
 
 //------------------------------------------------------------------------------
